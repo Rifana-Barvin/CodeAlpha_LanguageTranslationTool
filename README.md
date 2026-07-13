@@ -48,7 +48,10 @@ Copy or listen to the translated text.
 
 📸 Screenshots
 
-(Add screenshots of your GUI here to showcase the interface.)
+<img width="1903" height="1121" alt="image" src="https://github.com/user-attachments/assets/a96bb405-2519-47bc-bf28-d36335bddda2" />
+<img width="1913" height="1145" alt="image" src="https://github.com/user-attachments/assets/50ed08fb-c569-4a0c-b632-753561aff2a8" />
+
+
 
 📦 Requirements
 
